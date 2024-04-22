@@ -1,0 +1,17 @@
+{
+  "name": "load-testing",
+  "version": "1.0.0",
+  "description": "loading testing",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kabza",
+  "license": "ISC",
+  "dependencies": {
+    "k6": "^0.0.0",
+    "playwright": "^1.43.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
